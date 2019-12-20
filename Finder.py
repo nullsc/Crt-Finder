@@ -1,4 +1,5 @@
 #Work in progress
-import request
+import requests
 
 print("Type in the domain you want to search")
+domain = input()
